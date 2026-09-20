@@ -1,0 +1,844 @@
+<w:p w14:paraId="2FCD6A6E" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00000000"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:drawing><wp:inline distT="0" distB="0" distL="114300" distR="114300" wp14:anchorId="62302CB0" wp14:editId="6D2F3E2B"><wp:extent cx="4061460" cy="790575"/><wp:effectExtent l="0" t="0" r="0" b="9525"/><wp:docPr id="1" name="图片 1" descr="logo_school"/><wp:cNvGraphicFramePr><a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/></wp:cNvGraphicFramePr><a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture"><pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture"><pic:nvPicPr><pic:cNvPr id="1" name="图片 1" descr="logo_school"/><pic:cNvPicPr><a:picLocks noChangeAspect="1"/></pic:cNvPicPr></pic:nvPicPr><pic:blipFill><a:blip r:embed="rId9"/><a:stretch><a:fillRect/></a:stretch></pic:blipFill><pic:spPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="4062010" cy="791210"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></pic:spPr></pic:pic></a:graphicData></a:graphic></wp:inline></w:drawing></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t xml:space="preserve">  
+<w:p w14:paraId="2FCD6A6E" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00000000"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:drawing><wp:inline distT="0" distB="0" distL="114300" distR="114300" wp14:anchorId="62302CB0" wp14:editId="6D2F3E2B"><wp:extent cx="4061460" cy="790575"/><wp:effectExtent l="0" t="0" r="0" b="9525"/><wp:docPr id="1" name="图片 1" descr="logo_school"/><wp:cNvGraphicFramePr><a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/></wp:cNvGraphicFramePr><a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture"><pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture"><pic:nvPicPr><pic:cNvPr id="1" name="图片 1" descr="logo_school"/><pic:cNvPicPr><a:picLocks noChangeAspect="1"/></pic:cNvPicPr></pic:nvPicPr><pic:blipFill><a:blip r:embed="rId9"/><a:stretch><a:fillRect/></a:stretch></pic:blipFill><pic:spPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="4062010" cy="791210"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></pic:spPr></pic:pic></a:graphicData></a:graphic></wp:inline></w:drawing></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t xml:space="preserve">  
+<w:p w14:paraId="142CAE75" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00000000"><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:color w:val="000080"/><w:szCs w:val="21"/></w:rPr><w:t>注：
+教师姓名后留有一个空格，后面
+填写教师职称。下面加下划线。
+阅后
+删除此
+文本框。
+<w:p w14:paraId="142CAE75" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00000000"><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:color w:val="000080"/><w:szCs w:val="21"/></w:rPr><w:t>注：
+教师姓名后留有一个空格，后面
+填写教师职称。下面加下划线。
+阅后
+删除此
+文本框。
+ Python与人工智能应用课程项目
+基于OpenCV的智能门禁监控系统
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:tab/></w:r></w:p><w:tbl><w:tblPr><w:tblW w:w="0" w:type="auto"/><w:jc w:val="center"/><w:tblLayout w:type="fixed"/><w:tblCellMar><w:left w:w="0" w:type="dxa"/><w:right w:w="0" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="1528"/><w:gridCol w:w="425"/><w:gridCol w:w="3650"/></w:tblGrid><w:tr w:rsidR="00FA570F" w14:paraId="4C14B257" w14:textId="77777777" w:rsidTr="009D04D6"><w:trPr><w:trHeight w:hRule="exact" w:val="634"/><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="1528" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="6074ECB8" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00000000"><w:pPr><w:jc w:val="distribute"/><w:rPr><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>学生姓名
+<w:tcPr><w:tcW w:w="425" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="00AA477C" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00000000"><w:pPr><w:jc w:val="distribute"/><w:rPr><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>：
+<w:tcPr><w:tcW w:w="3650" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="1F84FE18" w14:textId="746144AC" w:rsidR="00FA570F" w:rsidRDefault="009D04D6"><w:pPr><w:rPr><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:sz w:val="32"/><w:szCs w:val="32"/><w:u w:val="single"/></w:rPr><w:t xml:space="preserve">    
+彭海英
+郭桦铃
+<w:trPr><w:trHeight w:hRule="exact" w:val="634"/><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="1528" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="510A8DDB" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00000000"><w:pPr><w:jc w:val="distribute"/><w:rPr><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>学号
+<w:tcPr><w:tcW w:w="425" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="1CF0EF6A" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00000000"><w:pPr><w:jc w:val="distribute"/><w:rPr><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>：
+<w:tcPr><w:tcW w:w="3650" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="621D7BB7" w14:textId="6CAD4DFB" w:rsidR="00FA570F" w:rsidRDefault="009D04D6"><w:pPr><w:rPr><w:rFonts w:eastAsia="黑体"/><w:sz w:val="32"/><w:szCs w:val="32"/><w:u w:val="single"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:eastAsia="黑体" w:hint="eastAsia"/><w:sz w:val="32"/><w:szCs w:val="32"/><w:u w:val="single"/></w:rPr><w:t>24550618081 24550618061
+<w:trPr><w:trHeight w:hRule="exact" w:val="634"/><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="1528" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="06356F67" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00000000"><w:pPr><w:jc w:val="distribute"/><w:rPr><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>院（系）
+<w:tcPr><w:tcW w:w="425" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="4AFF7B37" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00000000"><w:pPr><w:jc w:val="distribute"/><w:rPr><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>：
+<w:tcPr><w:tcW w:w="3650" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="4626BAAE" w14:textId="46AC19F7" w:rsidR="00FA570F" w:rsidRDefault="009D04D6"><w:pPr><w:rPr><w:snapToGrid w:val="0"/><w:kern w:val="0"/><w:position w:val="-46"/><w:sz w:val="32"/><w:szCs w:val="32"/><w:u w:val="single"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:snapToGrid w:val="0"/><w:kern w:val="0"/><w:position w:val="-46"/><w:sz w:val="32"/><w:szCs w:val="32"/><w:u w:val="single"/></w:rPr><w:t xml:space="preserve">  
+物
+理与信息工程学院
+<w:trPr><w:trHeight w:hRule="exact" w:val="634"/><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="1528" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="332EAF78" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00000000"><w:pPr><w:jc w:val="distribute"/><w:rPr><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>专业
+<w:tcPr><w:tcW w:w="425" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="210E6CDB" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00000000"><w:pPr><w:jc w:val="distribute"/><w:rPr><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>：
+<w:tcPr><w:tcW w:w="3650" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="4172D45E" w14:textId="555B6410" w:rsidR="00FA570F" w:rsidRDefault="009D04D6"><w:pPr><w:rPr><w:sz w:val="32"/><w:szCs w:val="32"/><w:u w:val="single"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:sz w:val="32"/><w:szCs w:val="32"/><w:u w:val="single"/></w:rPr><w:t xml:space="preserve">     
+电
+子信息工程
+<w:trPr><w:trHeight w:hRule="exact" w:val="634"/><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="1528" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="471F79BB" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00FA570F"><w:pPr><w:jc w:val="distribute"/><w:rPr><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="425" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="1D8DDD2B" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00FA570F"><w:pPr><w:jc w:val="distribute"/><w:rPr><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="3650" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="666A731D" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00FA570F"><w:pPr><w:rPr><w:sz w:val="32"/><w:szCs w:val="32"/><w:u w:val="single"/></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr w:rsidR="00FA570F" w14:paraId="777FC0E1" w14:textId="77777777" w:rsidTr="009D04D6"><w:trPr><w:trHeight w:hRule="exact" w:val="634"/><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="1528" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="50C22A2D" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00FA570F"><w:pPr><w:jc w:val="distribute"/><w:rPr><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="425" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="43D8E7AD" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00FA570F"><w:pPr><w:jc w:val="distribute"/><w:rPr><w:b/><w:bCs/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="3650" w:type="dxa"/><w:vAlign w:val="center"/></w:tcPr><w:p w14:paraId="733C9DD4" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00FA570F"><w:pPr><w:rPr><w:sz w:val="32"/><w:szCs w:val="32"/><w:u w:val="single"/></w:rPr></w:pPr></w:p></w:tc></w:tr></w:tbl><w:p w14:paraId="7B17631B" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00FA570F"><w:pPr><w:snapToGrid w:val="0"/><w:spacing w:line="400" w:lineRule="exact"/><w:rPr><w:sz w:val="24"/></w:rPr><w:sectPr w:rsidR="00FA570F"><w:headerReference w:type="default" r:id="rId10"/><w:footerReference w:type="even" r:id="rId11"/><w:footerReference w:type="default" r:id="rId12"/><w:footerReference w:type="first" r:id="rId13"/><w:pgSz w:w="11906" w:h="16838"/><w:pgMar w:top="1418" w:right="1418" w:bottom="1418" w:left="1418" w:header="851" w:footer="992" w:gutter="0"/><w:pgNumType w:fmt="numberInDash" w:start="1"/><w:cols w:space="425"/><w:titlePg/><w:docGrid w:type="lines" w:linePitch="312"/></w:sectPr></w:pPr></w:p><w:p w14:paraId="4B420E40" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00FA570F"><w:pPr><w:pStyle w:val="1"/><w:spacing w:beforeLines="50" w:before="156" w:afterLines="50" w:after="156" w:line="360" w:lineRule="auto"/></w:pPr><w:bookmarkStart w:id="0" w:name="_Toc1353"/><w:bookmarkStart w:id="1" w:name="_Toc28820"/></w:p><w:p w14:paraId="40298870" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00FA570F"/><w:p w14:paraId="14640CB4" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00FA570F"/><w:bookmarkEnd w:id="0"/><w:bookmarkEnd w:id="1"/><w:p w14:paraId="5D480AF7" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00FA570F"><w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:rightChars="151" w:right="317" w:firstLineChars="200" w:firstLine="560"/><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr></w:p><w:p w14:paraId="2FD97AB3" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00FA570F"><w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:rightChars="151" w:right="317" w:firstLineChars="200" w:firstLine="560"/><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr></w:p><w:p w14:paraId="4544FE1E" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00FA570F"><w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:rightChars="151" w:right="317" w:firstLineChars="200" w:firstLine="560"/><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr></w:p><w:sdt><w:sdtPr><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:b/><w:sz w:val="36"/></w:rPr><w:id w:val="147476918"/><w:docPartObj><w:docPartGallery w:val="Table of Contents"/><w:docPartUnique/></w:docPartObj></w:sdtPr><w:sdtEndPr><w:rPr><w:rFonts w:cs="宋体"/><w:b w:val="0"/><w:sz w:val="24"/></w:rPr></w:sdtEndPr><w:sdtContent><w:p w14:paraId="02D59D9E" w14:textId="77777777" w:rsidR="00FA570F" w:rsidRDefault="00000000"><w:pPr><w:spacing w:line="360" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:b/><w:sz w:val="44"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:b/><w:sz w:val="44"/></w:rPr><w:t>目录
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/><w:kern w:val="0"/><w:sz w:val="24"/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/><w:sz w:val="24"/></w:rPr><w:instrText xml:space="preserve">TOC \o "1-3" \h \u </w:instrText></w:r><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/><w:kern w:val="0"/><w:sz w:val="24"/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:hyperlink w:anchor="_Toc233500793" w:history="1"><w:r w:rsidR="009D04D6" w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t>一、
+项目概述
+</w:r><w:r w:rsidR="009D04D6"><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r w:rsidR="009D04D6"><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r w:rsidR="009D04D6"><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500793 \h</w:instrText></w:r><w:r w:rsidR="009D04D6"><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r w:rsidR="009D04D6"><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r w:rsidR="009D04D6"><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r w:rsidR="009D04D6"><w:rPr><w:noProof/></w:rPr><w:t>- 3 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500794" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">1.1 
+项目背景
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500794 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 3 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500795" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">1.2 
+项目目标
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500795 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 3 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500796" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">1.3 
+主要功能
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500796 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 3 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500797" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t>二、
+技术背景
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500797 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 4 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500798" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">2.1 
+人脸识别技术简介
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500798 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 4 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500799" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">2.2 
+face_recognition 库介绍
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500799 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 4 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500800" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">2.3 
+相关技术对比
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500800 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 4 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500801" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t>三、
+系统设计
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500801 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 5 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500802" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">3.1 
+系统架构
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500802 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 5 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500803" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">3.2 
+功能模块设计
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500803 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 5 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500804" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">3.3 
+多线程设计
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500804 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 6 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500805" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t>四、
+核心功能实现
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500805 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 6 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500806" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">4.1 
+初始化模块
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500806 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 6 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500807" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">4.2 
+人脸录入模块
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500807 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 7 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500808" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">4.3 
+人脸识别模块
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500808 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 8 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500809" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">4.4 
+通行日志管理
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500809 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 10 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500810" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t>五、
+系统界面展示
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500810 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 10 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500811" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t>六、
+数据存储设计
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500811 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 12 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500812" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t>七、
+实验结果与分析
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500812 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 13 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500813" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">7.1 
+识别准确率分析
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500813 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 13 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500814" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">7.2 
+识别速度分析
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500814 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 13 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500815" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">7.3 
+系统稳定性分析
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500815 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 13 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500816" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t>八、
+总结与展望
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500816 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 14 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500817" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">8.1 
+项目与总结
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500817 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 14 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500818" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t xml:space="preserve">8.2 
+未来改进方向
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500818 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 14 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500819" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/><w:noProof/></w:rPr><w:t>参考文献
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500819 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 15 -
+<w:tab w:val="right" w:leader="dot" w:pos="9062"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi" w:hint="eastAsia"/><w:noProof/><w:sz w:val="22"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc233500820" w:history="1"><w:r w:rsidRPr="00CB5DFD"><w:rPr><w:rStyle w:val="ae"/><w:noProof/></w:rPr><w:t>附录
+</w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:instrText>PAGEREF _Toc233500820 \h</w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:instrText xml:space="preserve"> </w:instrText></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:noProof/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>- 16 -
+一、
+项目概述
+1.1 
+项目背景
+随着人工智能和计算机视觉技术的快速发展，人脸识别技术已经广泛应用于各个领域，包括安防监控、门禁系统、身份验证、智能支付等。传统的身份验证方式如密码、IC卡等存在易丢失、易被盗用等问题，而人脸识别作为一种生物特征识别技术，具有唯一性、稳定性和便捷性等优势，逐渐成为身份认证的主流方式。
+本项目基于 Python 编程语言，结合 
+face_recognition
+ 深度学习库和 OpenCV 计算机视觉库，设计并实现了一个完整的人脸识别门禁系统原型。系统采用深度学习模型提取人脸的128维特征向量，通过计算特征向量之间的欧氏距离来判断身份，实现了从人脸采集、特征提取、身份识别到日志管理的完整流程。
+1.2 
+项目目标
+本项目的主要目标包括：
+（1）实现基于深度学习的高精度人脸识别算法
+（2）开发友好的图形用户界面，方便用户操作
+（3）实现实时人脸检测和识别功能
+（4）建立完整的人脸数据库管理系统
+（5）实现通行日志的记录和查询功能
+（6）保证系统的实时性和稳定性
+1.3 
+主要功能
+系统实现了以下核心功能：
+（1）人脸录入：通过摄像头实时采集用户人脸图像，自动检测人脸位置，提取128维特征向量并保存到数据库中。支持多人脸录入，每个用户只需
+采集约
+30张样本即可完成注册。
+（1）人脸识别：实时检测摄像头画面中的人脸，提取特征向量并与数据库中的人脸进行比对，判断是否为授权用户。识别结果以可视化方式显示在界面上。
+（1）通行日志：自动记录每次识别的时间、姓名和通行状态（允许通行/拒绝通行），支持按姓名搜索、刷新和清空日志。
+（1）图形界面：提供直观的 GUI 界面，包含摄像头实时预览、功能按钮和状态显示，用户无需编程知识即可操作。
+二、
+技术背景
+2.1 
+人脸识别技术简介
+人脸识别技术是计算机视觉和模式识别领域的重要研究方向，其基本流程包括以下几个步骤：
+（1）人脸采集：采集人脸图片的方法多种多样，可以直接从网上下载数据集，可以从视频中提取图片，还可以从摄像头实时采集图片。本系统采用摄像头实时采集的方式，通过 OpenCV 的 
+VideoCapture
+ 接口获取摄像头视频流。
+（1）人脸检测：人脸检测在实际中主要用于人脸识别的预处理，即在图像中准确标定出人脸的位置和大小。本系统使用 OpenCV 的 Haar 级联分类器进行人脸检测，该方法基于 AdaBoost 算法，通过训练大量正负样本得到强分类器，具有速度快、准确率高的特点，适合实时应用。
+（1）人脸特征提取：将检测到的人脸区域转换为可用于识别的特征表示。传统方法包括 
+EigenFaces
+（主成分分析）、
+FisherFaces
+（线性判别分析）和 LBPH（局部二
+值模式
+直方图）等。本系统采用 
+face_recognition
+ 库（基于 
+dlib
+ 的深度学习模型）提取人脸的128维特征向量，该方法使用在 LFW 数据集上训练的深度学习神经网络，具有更高的识别精度和鲁棒性。
+（1）匹配与识别：提取的人脸特征向量与数据库中存储的特征模板进行比对，通过计算欧氏距离判断相似度。当距离小于阈值（0.6）时，判定为同一人。这一过程分为两类：一类是确认（Verification，一对一比对），另一类是辨认（Identification，一对多比对）。本系统采用辨认模式，即与数据库中所有人
+脸进行
+比对，找到最匹配的结果。
+2.2 
+face_recognition
+ 库介绍
+face_recognition
+ 是一个基于 
+dlib
+ 库的 Python 人脸识别库，由 Adam Geitgey 开发。它使用了在 LFW（Labeled Faces in the Wild）数据集上训练的深度学习模型，该模型基于 
+ResNet
+ 架构，准确率达到 99.38%。
+该库的主要功能包括：
+• 
+face_recognition.face_locations
+()：检测图像中的人脸位置，返回人脸的边界框坐标（上、右、下、左）。支持多种检测模型，包括 Hog 和 CNN。
+• 
+face_recognition.face_encodings
+()：提取人脸的128维特征向量，用于后续的身份识别。该函数接收图像和人脸位置作为输入，返回一个包含特征向量的列表。
+• 
+face_recognition.face_distance
+()：计算两个人脸特征向量之间的欧氏距离，距离越小表示越相似。通常将阈值设为 0.6，距离小于该值判定为同一人。
+• 
+face_recognition.compare_faces
+()：比较已知人脸编码列表与待识别的人脸编码，返回布尔值列表表示是否匹配。
+2.3 
+相关技术对比
+以下是几种常见人脸识别方法的对比：
+<w:tblPr><w:tblStyle w:val="af2"/><w:tblW w:w="0" w:type="auto"/><w:jc w:val="center"/><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="2280"/><w:gridCol w:w="2280"/><w:gridCol w:w="2280"/><w:gridCol w:w="2280"/></w:tblGrid><w:tr w:rsidR="0042530B" w14:paraId="5D3B20EC" w14:textId="77777777" w:rsidTr="000640BA"><w:trPr><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="2BEF4733" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:b/><w:sz w:val="20"/></w:rPr><w:t>方法
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="158B4BC4" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:b/><w:sz w:val="20"/></w:rPr><w:t>原理
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="1BE668AF" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:b/><w:sz w:val="20"/></w:rPr><w:t>优点
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="714ACA2D" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:b/><w:sz w:val="20"/></w:rPr><w:t>缺点
+<w:trPr><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="406AF240" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:proofErr w:type="spellStart"/><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:lastRenderedPageBreak/><w:t>EigenFaces
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="61DC4608" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>PCA
+降维
++欧氏距离
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="5A77975E" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>计算简单、实现容易
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="38F6D1A8" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>对光照、表情变化敏感
+<w:trPr><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="7DB486C9" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:proofErr w:type="spellStart"/><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>FisherFaces
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="11A3BCBE" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>LDA线性判别分析
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="518C71E8" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:proofErr w:type="gramStart"/><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>类间区分性
+好
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="13FAA38E" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>需要大量训练样本
+<w:trPr><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="5B540441" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>LBPH
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="413426BA" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>局部二
+值模式
+直方图
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="08BE83BE" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>对光照变化鲁棒
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="0FD0BF28" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>精度相对较低
+<w:trPr><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="419F8EB7" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:proofErr w:type="spellStart"/><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>face_recognition
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="2132E158" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>深度学习128
+维特征
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="37FB9ECC" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>精度高、鲁棒性强
+<w:tcPr><w:tcW w:w="2280" w:type="dxa"/></w:tcPr><w:p w14:paraId="4B07C9EE" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>需要安装
+dlib
+依赖
+三、
+系统设计
+3.1 
+系统架构
+本系统采用多线程架构设计，主要包括以下模块：
+系统整体架构如下图所示：
+（1）主线程（GUI线程）：负责图形界面的更新和摄像头帧的读取，使用 
+Tkinter
+ 构建用户界面
+（2）人脸录入线程：负责采集新人脸图像并提取特征向量，采集完成后保存到数据库
+（3）人脸识别线程：负责实时检测并识别摄像头画面中的人脸，返回识别结果
+（4）数据存储模块：负责保存和加载人脸特征向量及配置文件，使用 pickle 序列化
+（5）日志管理模块：负责记录和管理通行日志，使用 CSV 格式存储
+3.2 
+功能模块设计
+系统主要包含以下功能模块：
+（1）初始化模块：系统启动时读取配置文件 config.txt 和特征向量文件 
+encodings.pkl
+，加载已知人脸信息到内存中。同时加载 OpenCV 的 Haar 级联分类器模型文件，初始化摄像头。
+（1）人脸录入模块：通过摄像头采集30张人脸样本，使用 Haar 级联检测人脸位置，对每张检测到的人脸使用 
+face_recognition
+ 提取128维特征向量，计算所有样本的平均特征向量作为该用户的特征模板，保存到 
+encodings.pkl
+ 文件中。
+（1）人脸识别模块：实时检测摄像头画面中的人脸，提取特征向量并与数据库中所有已知人脸进行比对，计算欧氏距离找到最匹配的结果。统计30帧内的匹配结果，返回匹配次数最多的用户ID。
+识别结果以可视化方式显示在界面上。
+（1）通行日志模块：每次识别完成后，将时间、姓名和通行状态记录到 CSV 文件中。提供查询界面，支持按姓名搜索、刷新列表和清空日志。
+（1）GUI界面模块：使用 
+Tkinter
+ 构建图形界面，包含摄像头实时预览区域、功能按钮（开始刷脸、录入人脸、通行日志、退出）和状态显示标签。
+3.3 
+多线程设计
+为避免界面卡顿，系统采用多线程架构：
+• 
+video_loop
+()：主线程，负责摄像头读取和 GUI 更新，每秒约30帧。使用 
+window.after
+(1, 
+video_loop
+) 实现循环调用，确保界面流畅。
+• 
+f_rec_face_thread
+()：工作线程，负责人脸录入。采集30张样本并提取特征向量，完成后更新配置文件和特征数据库。
+• 
+f_scan_face_thread
+()：工作线程，负责人脸识别。检测30帧并统计匹配结果，返回匹配次数最多的用户ID。
+系统使用全局变量 
+system_state_lock
+ 作为互斥锁，确保录入和识别不会同时进行：
+<w:tblPr><w:tblStyle w:val="af2"/><w:tblW w:w="0" w:type="auto"/><w:jc w:val="center"/><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="4561"/><w:gridCol w:w="4561"/></w:tblGrid><w:tr w:rsidR="0042530B" w14:paraId="0F513177" w14:textId="77777777" w:rsidTr="000640BA"><w:trPr><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="4561" w:type="dxa"/></w:tcPr><w:p w14:paraId="3418F7FA" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:proofErr w:type="spellStart"/><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:b/><w:sz w:val="20"/></w:rPr><w:t>system_state_lock
+ 值
+<w:tcPr><w:tcW w:w="4561" w:type="dxa"/></w:tcPr><w:p w14:paraId="3CEDF15C" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:b/><w:sz w:val="20"/></w:rPr><w:t>含义
+<w:trPr><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="4561" w:type="dxa"/></w:tcPr><w:p w14:paraId="38E349F1" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>0
+<w:tcPr><w:tcW w:w="4561" w:type="dxa"/></w:tcPr><w:p w14:paraId="029886BC" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>无子线程在运行
+<w:trPr><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="4561" w:type="dxa"/></w:tcPr><w:p w14:paraId="27F5204E" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>1
+<w:tcPr><w:tcW w:w="4561" w:type="dxa"/></w:tcPr><w:p w14:paraId="01E51C8B" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>正在刷脸（人脸识别）
+<w:trPr><w:jc w:val="center"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="4561" w:type="dxa"/></w:tcPr><w:p w14:paraId="75699B1B" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>2
+<w:tcPr><w:tcW w:w="4561" w:type="dxa"/></w:tcPr><w:p w14:paraId="6F704893" w14:textId="77777777" w:rsidR="0042530B" w:rsidRDefault="0042530B" w:rsidP="000640BA"><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="宋体" w:hAnsi="宋体"/><w:sz w:val="20"/></w:rPr><w:t>正在录入新面孔
+四、
+核心功能实现
+4.1 
+初始化模块
+系统启动时，首先读取配置文件和特征向量文件，加载已知人脸信息：
+def 
+init
+():
+    """将config文件内的信息读入到字典中"""
+    f = open('config.txt')
+    global 
+Total_face_num
+Total_face_num
+ = int(
+f.readline
+())  # 读取已录入人脸总数
+for 
+i
+ in range(int(
+Total_face_num
+)):
+        line = 
+f.readline
+()
+id_name
+ = 
+line.split
+(' ')
+id_dict
+[int(
+id_name
+[0])] = 
+id_name
+[1].strip()
+f.close
+()
+# 加载已保存的人脸特征向量
+load_encodings
+()
+def 
+load_encodings
+():
+    """从
+encodings.pkl
+加载所有已知人脸的特征向量"""
+    global 
+known_encodings
+    if 
+os.
+path.exists
+('
+encodings.pkl
+'):
+        with 
+open(
+'
+encodings.pkl
+', '
+rb
+') as f:
+known_encodings
+ = 
+pickle.load
+(f)
+初始化完成后，系统加载 OpenCV 的 Haar 级联分类器并打开摄像头：
+# 加载OpenCV人脸检测分类器Haar
+face_cascade
+ = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+# 打开标号为0的摄像头
+camera = cv2.VideoCapture(0)
+success, 
+img
+ = 
+camera.read
+()  # 初始化首帧
+4.2 
+人脸录入模块
+人脸录入模块的主要功能是通过摄像头采集用户的人脸图像，提取特征向量并保存到数据库中。具体实现步骤如下：
+（1）创建数据目录：清空或创建 data 目录用于存储采集过程中的人脸截图。每次录入
+前清空该目录
+，确保只保存本次采集的样本。
+（2）采集人脸样本：循环采集30张人脸图像。复用主线程 
+video_loop
+ 中更新的 
+img
+ 变量，避免多线程同时读取摄像头导致的数据冲突。使用 Haar 级联检测人脸位置，并用矩形框标记。
+（3）提取特征向量：对每张检测到的人脸，使用 
+face_recognition.face_encodings
+() 提取128维特征向量。将特征向量保存到 
+encodings_list
+ 列表中。
+（4）计算平均特征：采集完成后，将所有样本的特征向量求平均，作为该用户的特征模板。这样可以减少单次检测的误差，提高识别稳定性。
+（5）保存特征向量：将特征模板以 pickle 格式保存到 
+encodings.pkl
+ 文件中，便于下次启动时加载。
+（6）更新配置文件：修改 config.txt，更新人脸总数（第一行加一）和 id-姓名对应关系（追加新记录）。
+核心代码实现：
+def 
+Get_new_face
+():
+    print("正在从摄像头录入新人
+脸信息
+")
+# 清空data目录
+filepath
+ = "data"
+    if not 
+os.path.exists
+(
+filepath
+):
+os.mkdir
+(
+filepath
+)
+    else:
+shutil.rmtree
+(
+filepath
+)
+os.mkdir
+(
+filepath
+)
+sample_num
+ = 0
+encodings_list
+ = []
+while 
+sample_num
+ &lt;= 30:
+        global 
+img
+        frame = 
+img.copy
+() if 
+img
+ is not None else None
+        if frame is None:
+            continue
+# Haar级联检测人脸
+        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+        faces = 
+face_cascade.detectMultiScale
+(gray, 
+scaleFactor
+=1.2, 
+minNeighbors
+=5)
+for (x, y, w, h) in faces:
+            cv2.rectangle(frame, (x, y), (x + w, y + h), (255, 0, 0), 2)
+            # 提取特征向量
+rgb_frame
+ = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+            encoding = 
+face_recognition.face_encodings
+(
+rgb_frame
+, [(y, 
+x+w
+, 
+y+h
+, x)])
+            if 
+len
+(encoding) &gt; 0:
+encodings_list.append
+(encoding[0])
+                cv2.imwrite(f"./data/User.{
+Total_face_num
+}.{
+sample_num
+}.jpg", 
+                           gray[
+y:y+h
+, x:x+w])
+sample_num
+ += 1
+    # 计算平均特征向量作为该人的模板
+    if 
+len
+(
+encodings_list
+) &gt; 0:
+avg_encoding
+ = 
+np.mean
+(
+encodings_list
+, axis=0)
+known_encodings
+[
+Total_face_num
+] = 
+avg_encoding
+save_encodings
+()
+        print(f"已保存 {
+len
+(
+encodings_list
+)} 个样本的特征向量")
+4.3 
+人脸识别模块
+人脸识别模块是系统的核心功能，其实现流程如下：
+（1）从摄像头获取当前
+帧
+图像（复用主线程的 
+img
+ 变量）
+（2）使用 Haar 级联分类器检测人脸位置
+（3）对检测到的人脸区域，使用 
+face_recognition
+ 提取128维特征向量
+（4）遍历所有已知人脸的特征向量，计算欧氏距离
+（5）找到距离最小的匹配，若距离 &lt; 0.6 则判定为同一人
+（6）统计30帧内的匹配结果，返回匹配次数最多的用户ID
+核心代码实现：
+def 
+scan_face
+():
+best_match_id
+ = 0
+match_count
+ = {}  # 统计每个id的匹配次数
+if 
+len
+(
+known_encodings
+) == 0:
+        print("没有已录入的人脸数据")
+        return 0
+frame_count
+ = 0
+max_frames
+ = 30
+while 
+frame_count
+ &lt; 
+max_frames
+:
+frame_count
+ += 1
+        frame = 
+img.copy
+() if 
+img
+ is not None else None
+        if frame is None:
+            continue
+# Haar检测人脸
+        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+        faces = 
+face_cascade.detectMultiScale
+(gray, 
+scaleFactor
+=1.2, 
+minNeighbors
+=5)
+rgb_frame
+ = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+for (x, y, w, h) in faces:
+face_encodings
+ = 
+face_recognition.face_encodings
+(
+rgb_frame
+, [(y, 
+x+w
+, 
+y+h
+, x)])
+            if 
+len
+(
+face_encodings
+) == 0:
+                continue
+face_encoding
+ = 
+face_encodings
+[0]
+# 与所有已知人脸比较
+best_id
+ = 0
+best_dist
+ = 1.0
+            for 
+pid
+, 
+pencoding
+ in 
+known_encodings.items
+():
+dist
+ = 
+face_recognition.face_distance
+([
+pencoding
+], 
+face_encoding
+)[0]
+                if 
+dist
+ &lt; 
+best_dist
+:
+best_dist
+ = 
+dist
+best_id
+ = 
+pid
+# 判断是否匹配
+            if 
+best_dist
+ &lt; 0.6:
+user_name
+ = 
+id_dict.get
+(
+best_id
+, "Unknown")
+                confidence = round((1 - 
+best_dist
+) * 100, 1)
+                cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
+match_count
+[
+best_id
+] = 
+match_count.get
+(
+best_id
+, 0) + 1
+            else:
+                cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 0, 255), 2)
+# 返回匹配次数最多的id
+    if 
+match_count
+:
+        return 
+max(
+match_count
+, key=
+match_count.get
+)
+    return 0
+识别结果可视化：
+• 识别为授权人员：绿色边框（RGB: 0, 255, 0），显示姓名和置信度百分比
+• 识别为陌生人：红色边框（RGB: 0, 0, 255），显示 "unknown"
+4.4 
+通行日志管理
+系统支持将每次识别结果保存到 CSV 文件，并提供查询界面。日志记录包含以下信息：
+（1）时间：识别发生的精确时间（格式：YYYY-MM-DD HH:MM:SS）
+（2）姓名：识别出的用户姓名，未知人员显示为"未知人员"
+（3）状态：允许通行（授权用户）或拒绝通行（未知人员）
+日志保存代码：
+def 
+save_log
+(name, status):
+    """保存通行日志到CSV文件"""
+log_file
+ = "access_log.csv"
+    now = 
+datetime.now
+().
+strftime
+("%Y-%m-%d %H:%M:%S")
+file_exists
+ = 
+os.path.isfile
+(
+log_file
+)
+with open(
+log_file
+, 'a', newline='', encoding='utf-8-sig') as f:
+        writer = 
+csv.writer
+(f)
+        if not 
+file_exists
+:
+writer.writerow
+(["时间", "姓名", "状态"])
+writer.
+writerow
+(
+[now, name, status])
+日志查询界面功能：
+• 按姓名搜索：输入关键词，过滤显示匹配的日志记录
+• 刷新日志：重新读取日志文件，显示最新记录
+• 清空日志：删除日志文件，清空所有记录
+五、
+系统界面展示
+本节展示系统的主要界面截图，包括主界面、人脸录入、识别结果和通行日志管理等功能。
+图1 系统主界面
+图1 系统主界面，显示摄像头预览区域和功能按钮（开始刷脸、录入人脸、通行日志、退出）
+图2 录入人脸界面
+图2 录入人脸时弹出姓名输入框，用户输入姓名后系统开始采集人脸样本
+图3 人脸识别结果
+图3 人脸识别成功，顶部显示识别出的用户姓名和时间
+图4 通行日志管理
+图4 通行日志管理界面，显示所有识别记录，支持搜索、刷新和清空操作
+图5 日志搜索功能
+图5 按姓名搜索通行日志，可快速查找特定用户的通行记录
+六、
+数据存储设计
+系统采用三种方式存储数据，分别用于存储配置信息、特征向量和通行日志：
+6.1 config.txt - 人脸配置信息
+存储已录入人脸的总数及 id-姓名对应关系。文件格式如下：
+第一行：已录入人脸总数
+后续每行：id 姓名
+示例：
+2
+1 小美
+2 
+zzc
+6.2 
+encodings.pkl
+ - 人脸特征向量数据库
+使用 pickle 序列化保存所有已知人脸的128维特征向量。系统启动时加载该文件，识别时与数据库中的人脸进行比对。数据结构如下：
+known_encodings
+ = {
+    1: 
+np.array
+([0.123, -0.456, ..., 0.789]
+),  #
+ 小美的特征向量(128维)
+    2: 
+np.array
+([0.234, -0.567, ..., 0.890
+])   
+# 
+zzc
+的特征向量(128维)
+}
+6.3 access_log.csv - 通行日志
+保存通行日志，包括时间、姓名、状态三个字段。每次识别后自动追加记录。示例：
+时间,姓名,状态
+2026-06-18 16:26:44,小美,允许通行
+2026-06-18 16:26:55,小美,允许通行
+2026-06-18 16:33:50,未知人员,拒绝通行
+2026-06-18 16:37:29,zzc,允许通行
+七、
+实验结果与分析
+本系统在实际测试中表现出良好的识别性能和稳定性。以下是实验结果分析：
+7.1 
+识别准确率分析
+face_recognition
+ 库基于深度学习模型，在 LFW 数据集上的准确率达到 99.38%。在本系统的实际测试中：
+（1）对已录入用户，识别准确率较高，置信度通常在 80% 以上。系统通过统计30帧内的匹配结果，进一步提高了识别的可靠性。
+（2）对未录入人员，系统能正确识别为"未知人员"，拒绝通行。欧氏距离阈值设为 0.6，有效区分了已知和未知人脸。
+（3）在正常光照条件下，识别效果稳定可靠。Haar 级联检测器能够快速准确地定位人脸位置。
+（4）通过采集30张样本并计算平均特征向量，减少了单次检测的误差，提高了识别稳定性。
+7.2 
+识别速度分析
+系统采用 Haar 级联进行人脸检测，结合 
+face_recognition
+ 提取特征，整体识别速度满足实时性要求：
+（1）人脸检测：Haar 级联分类器检测速度快，可实时处理视频流，单帧检测时间约几毫秒。
+（2）特征提取：
+face_recognition
+ 提取128维特征向量约需几十毫秒，取决于 CPU 性能。
+（3）特征比对：欧氏距离计算简单快速，与数据库中每个人脸比对的时间可忽略不计。
+（4）整体识别流程：30帧统计约需 2-3 
+秒完成
+一次识别，满足门禁系统的实时性要求。
+7.3 
+系统稳定性分析
+系统采用多线程架构和互斥锁机制，保证了运行的稳定性：
+（1）多线程设计避免界面卡顿，用户体验良好。主线程负责界面更新，工作线程负责计算密集型任务。
+（2）互斥锁机制防止录入和识别同时进行，避免数据冲突。
+system_state_lock
+ 变量确保同一时间只有一个操作在执行。
+（3）工作线程复用主线程的图像帧，避免多线程同时读取摄像头导致的数据竞争。
+（4）异常处理机制保证系统在异常情况下不会崩溃，如摄像头断开、文件不存在等情况都有相应的处理。
+八、
+总结与展望
+8.1 
+项目与总结
+本项目成功实现了一个基于深度学习的人脸识别系统。系统采用 
+face_recognition
+ 库提取人脸的128维特征向量，结合 OpenCV 的 Haar 级联分类器进行人脸检测，实现了人脸录入、实时识别和通行日志管理等功能。通过多线程架构设计，系统保证了良好的实时性和用户体验。
+系统的主要优点包括：
+（1）识别精度高：基于深度学习的特征提取方法，在 LFW 数据集上准确率达99.38%
+（2）实时性好：多线程架构保证界面流畅，识别速度快，满足门禁系统需求
+（3）功能完整：涵盖人脸录入、识别、日志管理等完整流程，可直接使用
+（4）易于扩展：模块化设计便于后续功能扩展，代码结构清晰
+（5）用户友好：提供直观的 GUI 界面，无需编程知识即可操作
+8.2 
+未来改进方向
+尽管系统已经实现了基本的人脸识别功能，但仍有以下改进空间：
+（1）活体检测：增加活体检测功能，防止照片或视频攻击，提高系统安全性
+（2）多模态识别：结合其他生物特征（如虹膜、指纹）提高识别准确性和安全性
+（3）云端部署：将特征数据库部署到云端，支持分布式识别和跨设备同步
+（4）移动端适配：开发移动端应用，方便在手机上使用，扩展应用场景
+（5）性能优化：使用 GPU 加速特征提取，提高识别速度，支持更大规模的人脸库
+（6）光照自适应：增加图像预处理模块，提高在复杂光照条件下的识别率
+（7）多人脸识别：支持同时识别画面中的多个人脸，提高系统实用性
+参考文献
+[1] King D E. 
+Dlib
+-ml: A machine learning toolkit[J]. Journal of Machine Learning Research, 2009, 10: 1755-1758.
+[2] 
+Bradski
+ G. The OpenCV Library[J]. Dr. Dobb's Journal of Software Tools, 2000.
+[3] Schroff F, 
+Kalenichenko
+ D, Philbin J. 
+FaceNet
+: A unified embedding for face recognition and clustering[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 815-823.
+[4] Huang G B, Mattar M, Berg T, et al. Labeled faces in the wild: A database for studying face recognition in unconstrained environments[C]//Workshop on faces 
+in'Real-Life'Images
+: detection, alignment, and recognition. 2008.
+[5] 冈萨雷斯. 数字图像处理[M]. 电子工业出版社, 2011.
+[6] 
+李航
+. 统计学习方法[M]. 清华大学出版社, 2012.
+[7] Geitgey A. 
+face_recognition
+: The world's simplest facial recognition library for 
+Python[
+EB/OL]. https://github.com/ageitgey/face_recognition, 2017.
+附录
+附录A 系统文件结构
+face-recognition-cv2-master/
+├── main.py                              # 主程序，包含GUI界面、人脸录入、识别、日志管理等所有功能
+├── config.txt                           # 人脸配置信息，第一行为已录入人脸总数，后续每行为"id 姓名"对应关系
+├── 
+encodings.pkl
+                        # 人脸特征向量数据库（自动生成），以pickle格式存储所有已录入人脸的128维特征向量
+├── access_log.csv                       # 通行日志文件（自动生成），记录每次识别的时间、姓名、通行状态
+├── haarcascade_frontalface_default.xml  # OpenCV Haar级联人脸检测分类器模型文件
+├── data/                                # 临时存储目录（每次录入时自动清空），存放采集过程中的人脸截图
+└── README.md                            # 项目说明文档
+附录B 依赖库
+Python 3.11
+opencv
+-python 4.13.0
+face_recognition
+ 1.2.3
+dlib
+ 19.24.1
+numpy
+ 1.26.4（注意：必须使用 
+numpy
+ 1.x 版本，2.x 与 
+dlib
+ 不兼容）
+Pillow
+tkinter
+（Python内置）
+附录C 安装与运行
+# 安装依赖（注意 
+numpy
+ 版本必须降级到 1.x）
+pip install 
+opencv
+-python 
+face_recognition
+numpy
+==1.26.4 Pillow
+# 运行程序
+python main.py
+附录D 核心算法流程图
